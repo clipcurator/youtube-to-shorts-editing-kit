@@ -1,0 +1,18 @@
+{
+  "repository": "youtube-to-shorts-editing-kit",
+  "repurposing_formats": [
+    "key_insight_clip",
+    "story_highlight",
+    "problem_solution_clip",
+    "reaction_clip",
+    "series_teaser"
+  ],
+  "review_dimensions": [
+    "hook_strength",
+    "standalone_context",
+    "visual_interest",
+    "platform_fit",
+    "caption_readability"
+  ]
+}
+
