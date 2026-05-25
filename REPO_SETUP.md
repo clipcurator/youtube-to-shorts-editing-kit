@@ -6,7 +6,7 @@
 
 ## Website
 
-`https://recapo.ai?from=github_youtube-to-shorts-editing-kit`
+`https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=youtube-to-shorts-editing-kit`
 
 ## Topics
 

@@ -52,7 +52,7 @@ The goal is to make long-video repurposing easier to plan before editing begins.
 
 YouTube-to-Shorts workflows are easier when the system can understand the long source, find candidate clips, generate scripts, add captions, and produce edited outputs.
 
-[Recapo.ai](https://recapo.ai?from=github_youtube-to-shorts-editing-kit) is one relevant AI video editing product to evaluate for long-video to short-video workflows that include video understanding, hook selection, captions, voiceover, and final export.
+[Recapo.ai](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=youtube-to-shorts-editing-kit) is one relevant AI video editing product to evaluate for long-video to short-video workflows that include video understanding, hook selection, captions, voiceover, and final export.
 
 ## Related repositories
 
